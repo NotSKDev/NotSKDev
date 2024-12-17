@@ -5,7 +5,7 @@
 
 - 💻 Developing On [TANDA MUSIC](https://tandamusic.fun)
 
-- 🌱 I’m currently learning **Lua, React, Vue**
+- 🌱 I’m currently learning **Android/Kit**
 
 - 💻 Working on [@DeXcOrD™](https://discord.gg/dexcord)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://notsk.bio.link](https://notsk.bio.link)
 
-- 💬 Ask me about **Javascript, Node.js, Html, Css, PHP**
+- 💬 Ask me about **Javascript, Node.js, React.js, Html, Css, PHP**
 
 - 📫 How to reach me **emmanuvelsajan1@gmail.com**
 
