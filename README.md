@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuvel Sajan, my discord nickname is NotSk.Dev</h1>
-<h3 align="center">Discord Verified Bot Developer</h3>
+<h3 align="center">Discord Verified Bot Developer/Discord.js Professional Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notskdev&label=Profile%20views&color=0e75b6&style=flat" alt="notskdev" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://notsk.bio.link](https://notsk.bio.link)
 
-- 💬 Ask me about **Javascript, Node.js, React.js, Html, Css, PHP**
+- 💬 Ask me about **Javascript, Node.js, React.js, Vue.js, Html, Css, PHP**
 
 - 📫 How to reach me **emmanuvelsajan1@gmail.com**
 
