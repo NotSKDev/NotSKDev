@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuvel Sajan, my discord nickname is NotSk.Dev</h1>
 <h3 align="center">Discord Verified Bot Developer/Discord.js Professional Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuvelsajan &label=Profile%20views&color=0e75b6&style=flat" alt="emmanuvelsajan" /> </p>
 
 - 💻 Developing On [TANDA MUSIC](https://tandamusic.fun)
 
