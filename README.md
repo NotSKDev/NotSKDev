@@ -25,8 +25,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3><p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,lua,c,cpp,php,androidstudio,flutter,dart,kotlin,javascript,ts,express,react,redux,django,laravel,bootstrap,css,tailwind,html,jquery,wordpress,mongodb,dynamodb,sqlite,mysql,webpack,stackoverflow" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,jenkins,bash,cloudflare,nginx,discord,vscode,postman" />
+   <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,java,lua,c,cpp,php,androidstudio,flutter,dart,kotlin,javascript,ts,express,react,redux,django,bootstrap,css,html,jquery,mongodb,sqlite,mysql,discord" /><br>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuvelsajan&show_icons=true&locale=en" alt="emmanuvelsajan" /></p>
