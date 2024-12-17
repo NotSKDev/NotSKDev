@@ -29,4 +29,4 @@
     <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,jenkins,bash,cloudflare,nginx,discord,vscode,postman" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notskdev&show_icons=true&locale=en" alt="notskdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuvelsajan&show_icons=true&locale=en" alt="emmanuvelsajan" /></p>
