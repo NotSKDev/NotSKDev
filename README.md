@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://notsk.bio.link](https://notsk.bio.link)
 
-- 💬 Ask me about **Javascript, Node.js, React.js, Vue.js, Html, Css, PHP**
+- 💬 Ask me about **Javascript, Node.js, React.js, Vue.js, Lua, Html, Css, PHP**
 
 - 📫 How to reach me **emmanuvelsajan1@gmail.com**
 
