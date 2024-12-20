@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuvel Sajan, my discord nickname is NotSk.Dev</h1>
-<h3 align="center">Discord Verified Bot Developer/Discord.js Professional Developer</h3>
+<h3 align="center">Discord.js/FiveM Professional Developer</h3>
 
 
 - 💻 Developing On [TANDA MUSIC](https://tandamusic.fun)
