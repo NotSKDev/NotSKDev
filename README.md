@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android/Kit**
 
-- 💻 Working on [@DeXcOrD™](https://discord.gg/dexcord)
+- 💻 Working on [Pixoria Developments](https://discord.gg/n6Dm4E6czU))
 
 - ⭐ Now [Bot Developer's Community](https://discord.gg/aAgRTHdMQf)
 
